@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mediterranean Plants</string>
+    <string name="hello_android_xr">Hello Android XR.</string>
+    <string name="switch_to_home_space">Switch to Home Space</string>
+    <string name="switch_to_full_space">Switch to Full Space</string>
+    <string name="care_sun">Sun</string>
+    <string name="care_water">Water</string>
+    <string name="care_level_description">%1$s, %2$d of 3</string>
+    <string name="app_title">XR Plants</string>
+    <string name="list_subtitle">%1$d plants for your spatial garden</string>
+    <string name="care_title">Care</string>
+    <string name="back">Back</string>
+    <string name="add_in_3d">Add in 3D</string>
+    <string name="clear_all_models">Clear all 3D models</string>
+    <string name="enter_immersive_mode">Enter immersive mode</string>
+    <string name="exit_immersive_mode">Exit immersive mode</string>
+    <string name="toggle_environment">Toggle environment</string>
+</resources>
